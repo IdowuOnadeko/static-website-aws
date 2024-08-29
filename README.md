@@ -64,7 +64,7 @@ The static website is hosted on EC2 instances within a Virtual Private Cloud (VP
    yum install git -y
 
    # Clone the project GitHub repository to the current directory
-   git clone https://github.com/aosnotes77/host-a-static-website-on-aws.git
+   git clone https://github.com/Legendway/my-static-website-aws.git
 
    # Copy all files, including hidden ones, from the cloned repository to the Apache web root
    cp -R host-a-static-website-on-aws/. /var/www/html/
@@ -104,9 +104,11 @@ Once the deployment is complete, your static website will be accessible via the 
 - **/diagrams:** Includes architectural diagrams of the AWS setup.
 - **/website:** Contains the static HTML files for the website.
 
-## License
+## Repository Link
+The proect is available on Github: [my-static-website-aws](https://github.com/Legendway/my-static-website-aws.git)
 
-This project is licensed under the MIT License.
+## Conclusion
+This setup ensures a scalable, secure, and fault - tolerant environment for hosting a static web application, levaraing AWS's rebust infrastructure.
 
 ---
 
