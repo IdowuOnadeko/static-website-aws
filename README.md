@@ -105,7 +105,7 @@ Once the deployment is complete, your static website will be accessible via the 
 - **/website:** Contains the static HTML files for the website.
 
 ## Repository Link
-The proect is available on Github: [my-static-website-aws](https://github.com/Legendway/my-static-website-aws.git)
+The project is available on Github: [my-static-website-aws](https://github.com/Legendway/my-static-website-aws.git)
 
 ## Conclusion
 This setup ensures a scalable, secure, and fault - tolerant environment for hosting a static web application, levaraing AWS's rebust infrastructure.
